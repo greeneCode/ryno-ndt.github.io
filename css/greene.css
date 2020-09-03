@@ -1,0 +1,18 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&display=swap');
+/*Universal Styles*/
+* {
+    font-family: 'Baloo Da 2', 'sans-serif';
+}
+.carousel-indicators {
+    bottom: 0;
+}
+#wave-blue {
+    color: #2287bf;
+}
+.carousel-indicators li {
+    background-color: #868e96;          /*Bootstrap Secondary*/
+}
+.carousel-indicators .active {
+    background-color: #007bff;          /*Bootstrap Primary*/
+}
